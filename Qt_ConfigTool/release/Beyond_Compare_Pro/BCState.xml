@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCState Version="1" MinVersion="1">
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPositions>
+			<TFileFormatManagerDialog Value="539;110;1381;921"/>
+			<THexCompareSessionDialog Value="580;196;1178;797"/>
+			<THexInfoDialog Value="669;352;1238;826"/>
+			<TOpCompareResultsDialog Value="705;272;1214;760"/>
+			<TProfileBrowseDialog Value="466;123;1308;934"/>
+			<TSessionSaveAsDialog Value="679;395;1104;715"/>
+			<TViewFrame Value="242;100;1743;1017"/>
+		</FormPositions>
+	</TBcState>
+	<TDataCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="E:\Compare\inGway-v1.0.13\partitions.csv"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="E:\Compare\inGway2.0-ETH\partitions.csv"/>
+		</RightMRUSpecs>
+	</TDataCompareState>
+	<TDirCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="D:\ZS\zs\test_250909\NBP_NZS_HK32F0301MxxC-2"/>
+			<_1 Value="D:\ZS\zs\test_250909\HK32F0301MxxxxC_SDK_2025-07-17_V3.0.0\Libraries\HK32F0301MxxC_StdPeriph_Driver"/>
+			<_2 Value="D:\ZS\zs\test_250909\HK32F0301MxxxxC_SDK_2025-07-17_V3.0.0\Libraries\CMSIS"/>
+			<_3 Value="D:\ZS\zs\test_250909\HK32F0301MxxxxC_SDK_2025-07-17_V3.0.0\Libraries"/>
+			<_4 Value="D:\GVT_islandproof_project\Gitlab_work\OTA_debug\250415\compare\GVT_islandproof_HC32L160FCUB - 20250411"/>
+			<_5 Value="D:\GVT_islandproof_project\Gitlab_work\OTA_debug\250415\compare\GVT_islandproof_HC32L160FCUB_BOOT - 20250411"/>
+			<_6 Value="D:\GVT_islandproof_project\Gitlab_work\OTA_debug\GVT_islandproof_HC32L160FCUB-20250411"/>
+			<_7 Value="D:\GVW_islandproof_Project\前后版本对比\MCB_NBP_100GVW-v1.4.3"/>
+			<_8 Value="D:\GVW_2P_Project\update_debug\2P"/>
+		</LeftMRUSpecs>
+		<LogHeight Value="0"/>
+		<RightMRUSpecs>
+			<_0 Value="D:\ZS\zs\test_250909\NBP_NZS_HK32F0301MxxC"/>
+			<_1 Value="D:\ZS\zs\test_250909\NBP_NZS_HK32F0301MxxC-2\Lib\HK32F0301MxxC_Lib"/>
+			<_2 Value="D:\ZS\zs\test_250909\NBP_NZS_HK32F0301MxxC-2\Lib\CMSIS"/>
+			<_3 Value="D:\ZS\zs\test_250909\NBP_NZS_HK32F0301MxxC-2\Lib"/>
+			<_4 Value="D:\GVT_islandproof_project\Gitlab_work\OTA_debug\250415\compare\GVT_islandproof_HC32L160FCUB - 20250415"/>
+			<_5 Value="D:\GVT_islandproof_project\Gitlab_work\OTA_debug\250415\compare\GVT_islandproof_HC32L160FCUB_BOOT - 20250415"/>
+			<_6 Value="D:\GVT_islandproof_project\Gitlab_work\OTA_debug\GVT_islandproof_HC32L160FCUB"/>
+			<_7 Value="D:\GVW_islandproof_Project\前后版本对比\MCB_NBP_100GVW-v1.4.7"/>
+			<_8 Value="D:\GVW_2P_Project\update_debug\4P"/>
+		</RightMRUSpecs>
+	</TDirCompareState>
+	<THexCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="D:\Codex_Prj\bin_test_area\NXBLU-125D-63.bin"/>
+			<_1 Value="D:\Codex_Prj\bin_test_area\kimi_tool_generated.bin"/>
+			<_2 Value="D:\Codex_Prj\bin_test_area\DS_generated.bin"/>
+			<_3 Value="D:\Codex_Prj\test_area\NXBLU-125D-63.bin"/>
+			<_4 Value="D:\Codex_Prj\test_area\4.bin"/>
+			<_5 Value="D:\Codex_Prj\test_area\1.bin"/>
+			<_6 Value="D:\Codex_Prj\test_area\6666.bin"/>
+			<_7 Value="D:\Codex_Prj\test_area\NXBLU-125D_63_OTA-8.bin"/>
+			<_8 Value="D:\Codex_Prj\test_area\NXBLU-125D_63_OTA-6.bin"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="D:\Codex_Prj\bin_test_area\DS3.bin"/>
+			<_1 Value="D:\Codex_Prj\bin_test_area\DS2.bin"/>
+			<_2 Value="D:\Codex_Prj\bin_test_area\NXBLU-125D-63.bin"/>
+			<_3 Value="D:\Codex_Prj\bin_test_area\kimi_tool_generated.bin"/>
+			<_4 Value="D:\Codex_Prj\test_area\6.bin"/>
+			<_5 Value="D:\Codex_Prj\test_area\5.bin"/>
+			<_6 Value="D:\Codex_Prj\test_area\NXBLU-125D-63.bin"/>
+			<_7 Value="D:\Codex_Prj\test_area\3.bin"/>
+			<_8 Value="D:\Codex_Prj\test_area\2.bin"/>
+		</RightMRUSpecs>
+	</THexCompareState>
+	<THomeState>
+		<NewExpanded Value="True"/>
+		<SessionType Value="THexCompareSession"/>
+	</THomeState>
+	<TOpCompareState>
+		<ShowResultsDlg Value="True"/>
+	</TOpCompareState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="D:\NB2LE-80ZT\nb2le-80zt\SW\CODE\NB2_LOAD_App\firmware\CMSIS\device\startup\startup_n32g45x.s"/>
+			<_1 Value="C:\Users\lzlei\Desktop\zs_hex_compare\NBP_NZS_test1.hex"/>
+			<_2 Value="D:\SiKe_Prj\GitLab\develop_LZL\OMCA_App2\OMCA_IntegratedTerminal\firmware\CMSIS\device\startup\startup_n32g45x.s"/>
+			<_3 Value="C:\win7\unify-arch\SW\CODE\n32_demo\n32g45x_bootloader\clibrary\core\src\startup_n32g45x.s"/>
+			<_4 Value="C:\Users\lzlei\Desktop\GVT提测V2.0.1\GVT_app.hex"/>
+			<_5 Value="D:\GVT_islandproof_project\Gitlab_work\develop\GVT_AH_files\NBP-GVT防孤岛保护电能表外置断路器通用版_V1.2.0-ProgramTable\release\0491B1794_V1.2.0\5599B1758001.hex"/>
+			<_6 Value="D:\ZS\zs\ZS_test_250902\NBP-100ZS_ES7P0031_TestMode\NBP-100ZS\motor_control.c"/>
+			<_7 Value="D:\ZS\zs\250907\compare\NBP_NZS_HK32F0301MxxC.hex"/>
+			<_8 Value="D:\ZS\zs\test_250909\NBP_NZS_HK32F0301MxxC-2\HK32F0301MxxC_Lib_update Version.txt"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="D:\SiKe_Prj\GitLab\develop_LZL\omca_-integrated_terminal\SW\CODE\OMCA_OTA\OMCA_App\firmware\CMSIS\device\startup\startup_n32g45x.s"/>
+			<_1 Value="C:\Users\lzlei\Desktop\zs_hex_compare\NBP_NZS_gitlab.hex"/>
+			<_2 Value="C:\win7\unify-arch\SW\CODE\n32_demo\n32g457\clibrary\core\src\startup_n32g45x.s"/>
+			<_3 Value="D:\SiKe_Prj\GitLab\develop_LZL\OMCA_bootloader2\firmware\CMSIS\device\startup\startup_n32g45x.s"/>
+			<_4 Value="C:\Users\lzlei\Desktop\GVT提测V2.0.1\GVT_islandproof_hc32l160fcub.hex"/>
+			<_5 Value="D:\GVT_islandproof_project\Gitlab_work\develop\GVT_AH_files\NBP-GVT防孤岛保护电能表外置断路器通用版_V1.2.0-ProgramTable\release\0491B1794_V1.2.0\5599B1759001.hex"/>
+			<_6 Value="D:\ZS\zs\ZS_ES_New_250917\NBP-100ZS_ES7P0031_TestMode\NBP-100ZS\motor_control.c"/>
+			<_7 Value="D:\ZS\zs\250907\compare\NBP_NZS_HK32F0301MxxC1.hex"/>
+			<_8 Value="D:\ZS\zs\test_250909\NBP_NZS_HK32F0301MxxC\HK32F0301MxxC_Lib_update Version.txt"/>
+		</RightMRUSpecs>
+		<ShowItemNum Value="True"/>
+	</TTextCompareState>
+	<TTextFindState>
+		<FindItems>
+			<_0 Value="BLE"/>
+		</FindItems>
+		<ReplaceItems>
+			<_0/>
+		</ReplaceItems>
+	</TTextFindState>
+	<TVerCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="D:\Tools\pdf_tool\PDF分割合并工具.exe"/>
+			<_1 Value="D:\SoftwareInstalled\STM32CubeMX\STM32CubeMX.exe"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Microsoft YaHei UI;9;;1"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="C:\Users\Administrator\Desktop\NXBLE_bin\220905\0906.bin"/>
+		</RightMRUSpecs>
+	</TVerCompareState>
+</BCState>
